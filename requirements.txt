@@ -1,0 +1,10 @@
+loguru
+numpy
+openai
+pydantic
+scikit-learn
+scipy
+tenacity
+tqdm
+matplotlib
+
